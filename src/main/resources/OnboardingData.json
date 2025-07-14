@@ -1,0 +1,47 @@
+[
+    {
+        "eventName": "Onboarding Técnico - Journey to Cloud",
+        "startDate": "2025-07-25T14:00:00",
+        "endDate": "2025-07-25T16:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - Journey to Cloud",
+        "startDate": "2025-10-07T09:00:00",
+        "endDate": "2025-10-07T11:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - Bases de datos",
+        "startDate": "2025-08-25T14:00:00",
+        "endDate": "2025-08-25T16:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - Bases de datos",
+        "startDate": "2025-08-21T09:00:00",
+        "endDate": "2025-08-21T11:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - Angular",
+        "startDate": "2025-07-14T14:00:00",
+        "endDate": "2025-07-14T16:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - Angular",
+        "startDate": "2025-07-25T09:00:00",
+        "endDate": "2025-07-25T11:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - SpringBoot",
+        "startDate": "2025-09-25T14:00:00",
+        "endDate": "2025-09-25T16:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - SpringBoot",
+        "startDate": "2025-09-21T09:00:00",
+        "endDate": "2025-09-21T11:00:00"
+    },
+    {
+        "eventName": "Onboarding Técnico - AWS",
+        "startDate": "2025-07-21T09:00:00",
+        "endDate": "2025-07-21T11:00:00"
+    }
+]
